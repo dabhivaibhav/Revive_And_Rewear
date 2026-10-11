@@ -27,9 +27,11 @@ N-tier layered architecture using the MVC pattern:
 
 React · JavaScript · FastAPI · Python · MongoDB · JWT · 2FA authentication · REST API
 
-## Team
+## Team and my contribution
 
-Group project — Advanced Software Engineering (IT 426), Illinois State University.
+Group project by a team of 5 for Advanced Software Engineering (IT 426), Illinois State University.
+
+**My part:** I built the admin dashboard (listing approval workflow) and the OTP email login.
 
 ## License
 
